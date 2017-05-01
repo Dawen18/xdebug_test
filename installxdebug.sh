@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 wget http://xdebug.org/files/xdebug-2.5.3.tgz
 tar xvzf xdebug-2.5.3.tgz
